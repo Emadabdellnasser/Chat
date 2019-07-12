@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "860681805122",
+    "firebase_url": "https://gymchat-552f6.firebaseio.com",
+    "project_id": "gymchat-552f6",
+    "storage_bucket": "gymchat-552f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860681805122:android:8948c5ec819a30ff",
+        "android_client_info": {
+          "package_name": "emad.project.gymchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "860681805122-ncbsnv156thq2q4c0hdblmbq9ntdqf5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "emad.project.gymchat",
+            "certificate_hash": "49e6e8444eeb02265c2e1fc542081bc7c939d7a1"
+          }
+        },
+        {
+          "client_id": "860681805122-638jb8vd7d7v2427ql8vcs7843haia24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqhmKrY0qZ1WHvr1vMFTZKqc3Zvp5LQmQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "860681805122-638jb8vd7d7v2427ql8vcs7843haia24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
